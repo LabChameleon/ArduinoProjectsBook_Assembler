@@ -1,0 +1,5 @@
+Assembler implementations of a few of the projects discussed in the book 'Arduino Projects Book' by
+Scott Fitzgerald. The book comes together with the Arduino starter packet and is aimed for beginners
+using C and the official Arduino library. I wanted to spice things up a little bit and implemented
+some of the projects in Assembler code. Here the documentation of the Atmega328p that is commonly
+used on the Arduino is very handy.
